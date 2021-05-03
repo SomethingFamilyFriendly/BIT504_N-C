@@ -1,1 +1,3 @@
-# BIT504_N-C
+# Hello World
+
+This is a simple project that will output "Hello World" to the screen.
