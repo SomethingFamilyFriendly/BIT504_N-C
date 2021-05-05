@@ -1,3 +1,3 @@
-# Hello World
+# Tic Tac Toe
 
-This is a simple project that will output "Hello World" to the screen.
+Play game, win game, yes
